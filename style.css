@@ -57,16 +57,10 @@ section {
     margin-bottom: 30px;
 }
 
-section h2 {
-    font-size: 1.8rem;
-    color: #003366;
-    margin-top: 20px;
-    margin-bottom: 10px;
-}
-
 section p {
     font-size: 1.1rem;
     line-height: 1.8;
+    margin-bottom: 20px;
 }
 
 /* Conclusion */
